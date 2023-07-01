@@ -1,32 +1,15 @@
 # odin-recipes
 
-Iteration 1: initial structure
+Odin recipes is a hands-on project that trains aspiring web developers the skills needed to thrive in the field.
+The project is based on creating an HTML file describing any recipe.
+So I chose the Nshima recipe which is my staple food in my motherland - Zambia.
 
-    Within the odin-recipes directory, create an index.html file.
-    Fill it out with the usual boilerplate HTML and add an h1 heading “Odin Recipes” to the body.
+The skills to be performed are as follows:
 
-Iteration 2: recipe page
-
-    Create a new directory within the odin-recipes directory and name it recipes.
-    Create a new HTML file within the recipes directory and name it after the recipe it will contain. 
-    nshima.html
-    For now, just include an h1 heading with the recipe’s name as its content.
-    Back in the index.html file, add a link to the recipe page you just created.
-     Under the <h1>Odin Recipes</h1> heading, write out the link like so: <a href="recipes/nshima.html">Recipe Title</a>. The text of the link should again be the recipe name.
-
-Iteration 3: recipe page content
-
-Your new recipe page should have the following content:
-
-    An image of the finished dish under the h1 heading that you added earlier. You can find images of the dish on Google or the recipe site we linked to earlier.
-
-    Under the image, it should have an appropriately sized “Description” heading followed by a paragraph or two describing the recipe.
-
-    Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe.
-
-    Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
-
-Iteration 4: add more recipes
-
-    Add two more recipes with identical page structures to the recipe page you’ve already created.
-    Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
+1. Creating a new repository for the project on Github.com
+2. Cloning the repository to my workstation using git.
+3. Compounding the git commands and putting them to use.
+4. Maneuvering the terminal to the project directory.
+5. Populating the README.md file.
+6. Creating an index.html file within the odin-recipes directory.
+7. Populating the index.html file with the appropriate syntax.
